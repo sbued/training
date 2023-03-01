@@ -98,8 +98,8 @@
 <div>
 	<pb n="1" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg"/>
 			<head> MACAVITY: THE MYSTERY CAT </head>
-			<byline><paper/>
-				<docAuthor>T.S. Eliot</docAuthor>
+			<byline>
+<add/>				<docAuthor>T.S. Eliot</docAuthor>
 			</byline>
 			<lg> <l>Macavity's a Mystery Cat: he's called the Hidden Paw</l> 
 				<l>For he's the master criminal who can defy the Law.</l> 
