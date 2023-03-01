@@ -176,7 +176,7 @@
 	<text>
 		<body>
 <div>
-	<pb n="1" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg"/>
+	<pb n="1" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg">b</pb>
 			<head> MACAVITY: THE MYSTERY CAT </head>
 			<byline>
 				<docAuthor>T.S. Eliot</docAuthor>
@@ -197,7 +197,7 @@
 		<l>But I tell you once and once again, Macavity's not there! </l>
 	</lg>
 			<lg>
-				<l>Macavity's a ginger cat, he's very tall and thin; </l>
+				<l>Macavity's a ginger cat, he's very <w>tall </w>and thin; </l>
 				<l>You would know him if you saw him, for his eyes are sunken in. </l>
 				<l>His brow is deeply lined with thought, his head is highly domed; </l>
 				<l>His coat is dusty from neglect, his whiskers are uncombed. </l>
