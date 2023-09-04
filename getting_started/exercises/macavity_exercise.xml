@@ -260,8 +260,7 @@
 	<pb n="1" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg"/>
 			<head> MACAVITY: THE MYSTERY CAT </head>
 			<byline>
-<add/>				<docAuthor><persName key="Eliot, T. S." ref="https://d-nb.info/gnd/118529854" cert="high" role="aut" type="real">T.S. Eliot</persName></docAuthor>
-			</byline>
+<add/>				<docAuthor><persName key="Eliot, T. S." ref="https://d-nb.info/gnd/118529854" cert="high" role="aut" type="real">T.S. Eliot</persName></docAuthor></byline>
 			<lg> <l><persName key="Macavity" ref="http://dbpedia.org/resource/Macavity" cert="high" type="fictional">Macavity</persName>'s a Mystery Cat: he's called the Hidden Paw</l> 
 				<l>For he's the master criminal who can defy the Law.</l> 
 				<l>He's the bafflement of  the Flying Squad's despair:</l>
